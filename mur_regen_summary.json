@@ -1,0 +1,9 @@
+{
+  "power_source": "BatteryPower; scaled /100 from 0.1V*0.1A units",
+  "net_kwh": 3.4594069374166625,
+  "discharge_kwh": 3.465794184638885,
+  "regen_kwh_signed": -0.006387247222222438,
+  "regen_kwh_abs": 0.006387247222222438,
+  "regen_as_percent_of_discharge": 0.18429389865480286,
+  "fraction_samples_p_lt_0": 0.04138783138801954
+}

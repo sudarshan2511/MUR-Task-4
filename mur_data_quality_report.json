@@ -1,0 +1,22 @@
+{
+  "rows": 318886,
+  "time_non_monotonic_count": 0,
+  "dt_mean_s": 0.01,
+  "dt_std_s": 1.3892258587809366e-13,
+  "dt_p99_s": 0.010000000000218279,
+  "missing_fraction": {
+    "Time": 0.0,
+    "Car Data Driver Speed": 0.0021637826684144175,
+    "Car Data Battery BatteryPower": 0.0021104720809317435,
+    "Car Data Battery PackInstantaneousVoltage": 0.0021104720809317435,
+    "Car Data Battery PackCurrent": 0.0021104720809317435,
+    "Car Data Driver ThrottlePressure": 0.0021637826684144175,
+    "Car Data Driver FrontBrakePressure": 0.0021637826684144175,
+    "Car Data Driver RearBrakePressure": 0.0021637826684144175
+  },
+  "max_constant_run_samples": {
+    "Car Data Driver Speed": 9300,
+    "Car Data Battery BatteryPower": 8655,
+    "Car Data Driver ThrottlePressure": 9300
+  }
+}
